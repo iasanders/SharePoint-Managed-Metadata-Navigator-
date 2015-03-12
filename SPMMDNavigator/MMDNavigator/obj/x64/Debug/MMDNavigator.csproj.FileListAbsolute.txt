@@ -1,0 +1,21 @@
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.exe
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.pdb
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.Form1.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.Properties.Resources.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\ResGen.read.1.tlog
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\ResGen.write.1.tlog
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.exe
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.pdb
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.AboutBox1.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.exe.config
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.exe.config
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.exe
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.pdb
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.csprojResolveAssemblyReference.cache
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.AboutBox1.resources
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.Form1.resources
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.Properties.Resources.resources
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\obj\x64\Debug\MMDNavigator.csproj.GenerateResource.Cache
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.exe
+F:\Docs\Visual Studio 2013\Projects\CODEPLEX\SPMMDNavigator\MMDNavigator\bin\x64\Debug\MMDNavigator.pdb

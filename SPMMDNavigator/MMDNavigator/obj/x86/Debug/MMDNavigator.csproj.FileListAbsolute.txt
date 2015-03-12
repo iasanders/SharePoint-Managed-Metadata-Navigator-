@@ -1,0 +1,16 @@
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\Debug\MMDNavigator.exe
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\Debug\MMDNavigator.pdb
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\MMDNavigator.Form1.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\MMDNavigator.Properties.Resources.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\ResGen.read.1.tlog
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\ResGen.write.1.tlog
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\MMDNavigator.exe
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\MMDNavigator.pdb
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\Debug\MMDNavigator.exe.config
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\obj\x86\Debug\MMDNavigator.AboutBox1.resources
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x86\Debug\MMDNavigator.exe.config
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x86\Debug\MMDNavigator.exe
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x86\Debug\MMDNavigator.pdb
+C:\vsprojects\windows\MMDNavigator\MMDNavigator\bin\x86\Debug\Microsoft.Sharepoint.Sandbox.dll
