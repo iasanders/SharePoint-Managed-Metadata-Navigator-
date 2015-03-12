@@ -1,4 +1,4 @@
-SPMMDN
+SharePoint Managed Metadata Navigator
 =====
 Use SharePoint Managed Metadata Navigator to browse, explore, create, update, delete, export and import MMD Groups, Termsets, and Terms for SharePoint 2010.
 
@@ -14,8 +14,7 @@ Custom export/import using Xml format preserves GUIDS across environments
 
 SharePoint SharePoint Managed Metadata Navigator - Refactored for use with SharePoint 2013
 
-
-SUSHI was built by JBen Steinhauser, brought to you by B&R Business Solutions 
+SPMMDN was built by JBen Steinhauser, brought to you by B&R Business Solutions 
 SharePoint 2013 contributions by Ivan Sanders, SharePoint Server MVP
 
 Download the original SharePoint Managed Metadata Navigator from Codeplex https://spmmdnavigator.codeplex.com/ for SharePoint 2010
