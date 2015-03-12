@@ -1,8 +1,8 @@
-sushi
+SPMMDN
 =====
 Use SharePoint Managed Metadata Navigator to browse, explore, create, update, delete, export and import MMD Groups, Termsets, and Terms for SharePoint 2010.
 
-Use this tool SPMMD to Navigate, Administer, and Export SharePoint 2013 Managed Metadata.
+Use this tool SPMMDN to Navigate, Administer, and Export SharePoint 2013 Managed Metadata.
 
 Features includes: Uses SharePoint Object Model, not Web Services. 
 Navigate the MMD structure, seeing more information than the standard MMD interface (like GUIDs, internal settings, counts, etc.) 
